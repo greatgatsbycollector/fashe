@@ -7,6 +7,8 @@
 <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" />
 <link rel="stylesheet" href="css/style.css" />
 
+<link rel="shortcut icon" type="image/png" href="assets/favicon.png"/>
+
 <script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
 <!-- <script type="text/javascript" src="js/jquery.easing.1.2.js"></script> -->
 <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
@@ -18,7 +20,3 @@
 <meta property="og:url" content="" />
 <meta property="og:title" content="" />
 <meta property="og:description" content="" />
-
-
-
-<!--->

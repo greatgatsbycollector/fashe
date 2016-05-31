@@ -30,7 +30,13 @@
             </label>
             <select class="form-control1 col-sm-8 col-xs-12 product-cat" name="product_cat">
                 <option value="">--- Select ---</option>
+                <option value="Women Apparel">Women Apparel</option>
+                <option value="Men Apparel">Men Apparel</option>
                 <option value="Shoes">Shoes</option>
+                <option value="Bags & Wallets">Bags & Wallets</option>
+                <option value="Bras & Lingerie">Bras & Lingerie</option>
+                <option value="Accessories">Accessories</option>
+                <option value="Muslim Wear">Muslim Wear</option>
             </select>
         </div>
         <div class="col-xs-12 each-prop">
