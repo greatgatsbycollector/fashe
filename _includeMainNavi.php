@@ -8,7 +8,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/_staging2/">
+      <a class="navbar-brand" href="/_fasheholic/">
 	      <img src="assets/logo.gif" />
 <!-- 	      FASHEHOLIC -->
 	  </a>
@@ -19,7 +19,8 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       
-      <form class="navbar-form navbar-left hidden-xs" role="search" style="position: absolute;width:100%;text-align: center;margin-left: -30px;">
+      <!--
+<form class="navbar-form navbar-left hidden-xs" role="search" style="position: absolute;width:100%;text-align: center;margin-left: -30px;">
         <div class="form-group">
           <input type="text" class="form-control" placeholder="Search Brands/Products" style="border-radius: 20px;padding:0px 100px;background-color: #F8F8F8">
         </div>
@@ -31,9 +32,11 @@
         </div>
         
       </form>
+-->
       <ul class="nav navbar-nav navbar-right">
        
-        <li class="dropdown">
+        <!--
+<li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" ><span style="border: 1px solid;padding: 5px;border-radius: 5px">FILTER</span> </a>
           <ul class="dropdown-menu">
             <li><a href="#">Category1</a></li>
@@ -51,6 +54,7 @@
             <li><a href="#">accessories</a></li>
           </ul>
         </li>
+-->
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">MENU </a>
           <ul class="dropdown-menu" style="background-color: gray">
